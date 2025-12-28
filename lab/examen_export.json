@@ -1,0 +1,11 @@
+[
+	{
+		"id" : 1,
+		"inscription_etudiant_id" : 1,
+		"inscription_cours_id" : 2,
+		"inscription_professeur_id" : 2,
+		"inscription_date_inscription" : "2025-09-02",
+		"date_examen" : "2025-12-27",
+		"score" : 12.00
+	}
+]
